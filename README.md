@@ -11,6 +11,7 @@ This project showcases the implementation of a JWT Authentication feature in an 
 Technologies used:
   - Spring Boot 3
   - Spring Security 6
+  - Java 17
 
 # FRONTEND JWT Authentication Project (Angular)
 
