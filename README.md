@@ -22,8 +22,8 @@ This project demonstrates how to implement a JWT Authentication functionality in
 This project showcases the implementation of a login feature in an Angular application. It utilizes Angular's powerful features such as components, services, and routing to create a seamless login experience for users.
 
 Technologies used:
-  - Angular 16 (updated)
-  - TypeScript
+  - Angular 16 
+  - TypeScript 5.0.3
   - HTML/CSS
 
 ## YouTube Channel
