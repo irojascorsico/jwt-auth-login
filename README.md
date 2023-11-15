@@ -24,7 +24,7 @@ This project showcases the implementation of a login feature in an Angular appli
 Technologies used:
   - Angular 16 
   - TypeScript 5.0.3
-  - HTML/CSS
+  - HTML 5/CSS 3
 
 ## YouTube Channel
 
