@@ -28,4 +28,4 @@ Technologies used:
 
 ## YouTube Channel
 
-   For a detailed step-by-step explanation of the login implementation, please visit .
+   For a detailed step-by-step explanation of the login implementation, please visit https://youtu.be/uKaDrojacqw.
